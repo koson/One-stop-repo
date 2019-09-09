@@ -8,8 +8,8 @@
 
 ## github
 
-#### [esp32-tutorial](https://github.com/lucadentella/esp32-tutorial)
-#### [ESP32 IoT Solution Overview](https://github.com/espressif/esp-iot-solution)
+- [esp32-tutorial](https://github.com/lucadentella/esp32-tutorial)
+- [ESP32 IoT Solution Overview](https://github.com/espressif/esp-iot-solution)
 - [RuiSantosdotme/ESP32-Course](https://github.com/RuiSantosdotme/ESP32-Course)
 - [RuiSantosdotme/ESP-MicroPytho](https://github.com/RuiSantosdotme/ESP-MicroPython)
 - [GabrielMMelo/esp32_course](https://github.com/GabrielMMelo/esp32_course)
