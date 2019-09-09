@@ -5,4 +5,7 @@
 - [fisherman6v6/ESP32-Project](https://github.com/fisherman6v6/ESP32-Project)
 - [hopkinskong/eie553-iot-esp32-firmware](https://github.com/hopkinskong/eie553-iot-esp32-firmware)
 - [erfengwelink/esp32_argtable3_demo](https://github.com/erfengwelink/esp32_argtable3_demo)
+- [kodera2t/ESP32_OLED_webradio](https://github.com/kodera2t/ESP32_OLED_webradio)
+- [G6EJD/ESP32-8-Octave-Audio-Spectrum-Display](https://github.com/G6EJD/ESP32-8-Octave-Audio-Spectrum-Display)
+- [LilyGO/ESP32-OLED0.96-ssd1306](https://github.com/LilyGO/ESP32-OLED0.96-ssd1306)
 
