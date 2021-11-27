@@ -234,7 +234,7 @@
 
 <a class="OAVLIQC-c-g" href="http://www.iotsharing.com/2017/12/how-to-debugging-errors-using-arduino-esp-exception-decoder.html">Demo 38: How to decode error/exception "CPU halted" of ESP on Arduino</a><a href="http://www.iotsharing.com/2017/12/how-to-debugging-errors-using-arduino-esp-exception-decoder.html">&nbsp;</a>
 
-<a href="http://www.iotsharing.com/2018/01/esp32-multipart-upload-file-and-download-via-http.html">Demo 39: Demo 39: ESP multipart upload a file and download a file via HTTP</a>
+<a href="http://www.iotsharing.com/2018/01/esp32-multipart-upload-file-and-download-via-http.html">Demo 39: ESP multipart upload a file and download a file via HTTP</a>
 
 <a href="http://www.iotsharing.com/2018/01/create-facebook-messenger-chatbot-monitoring-controlling-devices-raspberrypi-esp32-8266.html">Demo 40: Create a Facebook Messenger chat bot for monitoring and controlling home devices using Raspberry/Orange Pi and ESP32/8266</a>
 
@@ -249,20 +249,11 @@
 <a href="http://www.iotsharing.com/2019/07/copy-data-to-from-spiffs-without-mkspiffs.html">Demo 45: Copy data from/to SPIFFS without using mkspiffs (web file server)</a>
 
 <a href="http://www.iotsharing.com/2019/07/how-to-turn-esp-with-sdcard-or-spiffs-a-web-file-server.html">Demo 46: How to turn ESP with a sdcard or SPIFFS to a web file server</a>
-
 <a href="http://www.iotsharing.com/2019/07/deep-learning-computer-vision-with-esp-tensorflowjs.html">Demo 47: Deep learning - Computer vision with ESP32 and tensorflow.js</a>
-
 <a href="http://www.iotsharing.com/2020/03/demo-48-using-websocket-for-camera-live.html">Demo 48: Using WebSocket for camera live stream</a>
-
 <a href="http://www.iotsharing.com/2020/03/using-http-for-camera-live-stream.html">Demo 49: Using HTTP for camera live stream and bring it to the world</a>
-
 <a href="http://www.iotsharing.com/2020/03/bring-tensorflow-lite-to-esp32-person-detection-deep-learning.html">Demo 50: Bring Tensorflow Lite to ESP32 Arduino - person detection application using deep learning with ESP32 CAM</a> </div><div dir="ltr" style="text-align: left;" trbidi="on"></div><div dir="ltr" style="text-align: left;" trbidi="on"><a href="http://www.iotsharing.com/2021/01/building-smart-home-system-with-home.html" target="_blank">Demo 51:&nbsp;Building a Smart Home system with Home Assistant using Raspberry Pi and ESP32/ESP8266 (A to Y)</a></div><div dir="ltr" style="text-align: left;" trbidi="on"></div><div dir="ltr" style="text-align: left;" trbidi="on"><a href="https://www.iotsharing.com/2021/08/demo-52-computer-vision-with-esp32.html">Demo 52: Computer vision with ESP32 Camera</a></div>
 </div> 
-
-
-
-
-
 
 
 
